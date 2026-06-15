@@ -1,7 +1,7 @@
 # Mini Projeto: Cadastro de Alunos 🎓
 
 Este projeto em Python simula um sistema simples de cadastro de alunos.  
-Ele utiliza variáveis, listas, laços de repetição e funções.
+Ele utiliza **variáveis**, **listas**, **laços de repetição** e **funções**.
 
 ## 🚀 Funcionalidades
 - Adicionar alunos
@@ -9,7 +9,7 @@ Ele utiliza variáveis, listas, laços de repetição e funções.
 - Encerrar o programa
 
 ## 📌 Como executar
-1. Certifique-se de ter o Python instalado.
+1. Certifique-se de ter o [Python instalado](ca://s?q=Como_instalar_Python).
 2. Baixe ou clone este repositório.
 3. No terminal, execute:
    ```bash
